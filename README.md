@@ -1,1 +1,11 @@
-# Single-Cycle-Risc-V-Processor
+<img src="readme_file/1.png"></img>
+<img src="readme_file/2.png"></img>
+<img src="readme_file/3.png"></img>
+<img src="readme_file/4.png"></img>
+<img src="readme_file/5.png"></img>
+<img src="readme_file/6.png"></img>
+<img src="readme_file/7.png"></img>
+<img src="readme_file/8.png"></img>
+<img src="readme_file/9.png"></img>
+<img src="readme_file/10.png"></img>
+<img src="readme_file/11.png"></img>
